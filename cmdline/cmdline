@@ -1,0 +1,1 @@
+quiet irqpoll audit=0 loglevel=0 nokprobes elevator=noop transparent_hugepage=never numa=off mitigations=off nohalt nopti mce=ignore_ce selinux=0 apparmor=0 schedstats=disable
